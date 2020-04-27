@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "25787997172",
+    "firebase_url": "https://satit-25729.firebaseio.com",
+    "project_id": "satit-25729",
+    "storage_bucket": "satit-25729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25787997172:android:26e50d16cc19a14056f7a1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25787997172-l809up4mitb0il76nsha2ssp5o5b9fnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7uT9ww52ueG1f9nplOz8wH0otOfj5uKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25787997172-l809up4mitb0il76nsha2ssp5o5b9fnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
